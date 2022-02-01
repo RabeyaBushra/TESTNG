@@ -17,6 +17,9 @@
  3.Give following commands:
    
    
+   
+   
+   
    gradle clean test
    
    allure generate allure-results --clean -o allure-report
