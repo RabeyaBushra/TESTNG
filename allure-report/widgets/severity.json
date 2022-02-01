@@ -1,0 +1,141 @@
+[ {
+  "uid" : "6aeb05b2bb1a04ed",
+  "name" : "ShopSearchProducts",
+  "time" : {
+    "start" : 1643636758946,
+    "stop" : 1643636763831,
+    "duration" : 4885
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e652093d776d1e",
+  "name" : "doClickSaleTab",
+  "time" : {
+    "start" : 1643636690431,
+    "stop" : 1643636695503,
+    "duration" : 5072
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f99bc2b1ff166181",
+  "name" : "GetCurrentUrL",
+  "time" : {
+    "start" : 1643636695512,
+    "stop" : 1643636695668,
+    "duration" : 156
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c90b614ab1f4f37",
+  "name" : "ShopProductsProducts",
+  "time" : {
+    "start" : 1643636763840,
+    "stop" : 1643636770204,
+    "duration" : 6364
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85dbe917e1795371",
+  "name" : "AddCartSaleCheckoutBlankPlaceOrder",
+  "time" : {
+    "start" : 1643636715539,
+    "stop" : 1643636740461,
+    "duration" : 24922
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a7ab52a979bdfa1",
+  "name" : "NotAvailableProduct",
+  "time" : {
+    "start" : 1643636780376,
+    "stop" : 1643636785443,
+    "duration" : 5067
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38998386e739dfaa",
+  "name" : "AvailableColor",
+  "time" : {
+    "start" : 1643636770209,
+    "stop" : 1643636780365,
+    "duration" : 10156
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "239bde1f35aea146",
+  "name" : "ShopProductSortByPopularity",
+  "time" : {
+    "start" : 1643636752125,
+    "stop" : 1643636758927,
+    "duration" : 6802
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "388f8965a91e19ef",
+  "name" : "ShopSearchAllProduct",
+  "time" : {
+    "start" : 1643636746387,
+    "stop" : 1643636752117,
+    "duration" : 5730
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3799bdfdf20c4129",
+  "name" : "Tittle",
+  "time" : {
+    "start" : 1643636695673,
+    "stop" : 1643636695841,
+    "duration" : 168
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7644f84a533a2bf4",
+  "name" : "AddToCart",
+  "time" : {
+    "start" : 1643636668680,
+    "stop" : 1643636684077,
+    "duration" : 15397
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0e2365911217a2a",
+  "name" : "NotAvailableColor",
+  "time" : {
+    "start" : 1643636785455,
+    "stop" : 1643636785748,
+    "duration" : 293
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ce1af78c8888b7d",
+  "name" : "doPurchaseTab",
+  "time" : {
+    "start" : 1643636658943,
+    "stop" : 1643636668597,
+    "duration" : 9654
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74e533a752b43a1c",
+  "name" : "AddCartSaleInvalidCoupon",
+  "time" : {
+    "start" : 1643636695854,
+    "stop" : 1643636715533,
+    "duration" : 19679
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
